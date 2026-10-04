@@ -5,7 +5,7 @@ its completely vibecoded, hence the name
 
 vibebrowse is an entirely (except for the dmg background) ai generated, vibecoded, web browser/glorified html viewer
 
-its has:
+it has:
 - html editing
 - site viewing via iframe (theres a preset, dont worry your vibe coded head off)
 - back and forward buttons
