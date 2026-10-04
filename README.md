@@ -24,3 +24,5 @@ macos big sur+, intel or arm, the app couldnt care less what architecture
 ## how do i use this app
 
 download the .dmg and drag the app into applications folder. then you open it like any other macos app.
+
+<img width="787" height="607" alt="Screenshot 2026-10-04 at 6 20 19 PM" src="https://github.com/user-attachments/assets/0bc35c32-9e7f-40b5-a359-b70476edfc7f" />
